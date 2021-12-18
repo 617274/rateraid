@@ -59,7 +59,6 @@ public class ColorListActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         View contentView = getLayoutInflater().inflate(R.layout.activity_color_list, null);
         setContentView(contentView);
-        List<Integer> arr = new ArrayList();
 
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
