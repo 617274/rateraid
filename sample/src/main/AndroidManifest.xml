@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.github.rjbx.sample">
+    package="art.coded.sample">
 
     <application
         android:allowBackup="true"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.github.rjbx.sample.ColorListActivity"
+            android:name="art.coded.sample.ColorListActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -20,13 +20,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.github.rjbx.sample.ColorDetailActivity"
+            android:name="art.coded.sample.ColorDetailActivity"
             android:label="@string/title_color_detail"
-            android:parentActivityName="com.github.rjbx.sample.ColorListActivity"
+            android:parentActivityName="art.coded.sample.ColorListActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.github.rjbx.sample.ColorListActivity" />
+                android:value="art.coded.sample.ColorListActivity" />
         </activity>
     </application>
 
