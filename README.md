@@ -8,4 +8,4 @@ Users can automatically calibrate as well as define behaviors for views controll
 
 1. Add the library folders ['rateraid' and/or 'calibrater'] to your project src path
 2. In the project settings.gradle file, add the quoted folder name to the comma separated list
-3. For implementation guidance, read the docs: https://617274.github.io/rateraid
+3. For implementation guidance, read the docs: https://bxcd.github.io/rateraid
