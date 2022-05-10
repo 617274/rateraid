@@ -4,6 +4,11 @@ Custom libraries for synchronizing percent series adjustments made with Android,
 
 Users can automatically calibrate as well as define behaviors for views controlling percent values.
 
+* Webpage: https://coded.art/rateraid
+* Webdocs: https://bxcd.github.io/rateraid/?iframe=true
+* Android library: https://github.com/bxcd/rateraid/tree/master/rateraid
+* Java library: https://github.com/bxcd/rateraid/tree/master/calibrater
+
 # Getting Started
 
 1. Add the library folders ['rateraid' and/or 'calibrater'] to your project src path
