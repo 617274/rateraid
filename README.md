@@ -9,7 +9,7 @@ Users can automatically calibrate as well as define behaviors for views controll
 * Android library: https://github.com/bxcd/rateraid/tree/master/rateraid
 * Java library: https://github.com/bxcd/rateraid/tree/master/calibrater
 
-# Getting Started
+## Getting Started
 
 1. Add the library folders ['rateraid' and/or 'calibrater'] to your project src path
 2. In the project settings.gradle file, add the quoted folder name to the comma separated list
