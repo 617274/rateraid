@@ -1,8 +1,8 @@
 # rateraid
 
-Custom libraries for synchronizing percent series adjustments made with Android, Java and JUnit
+Custom libraries for synchronizing percent series adjustments by automatically calibrating as well as defining behaviors for views controlling percent values.
 
-Users can automatically calibrate as well as define behaviors for views controlling percent values.
+Made with Android, Java and JUnit
 
 * Webpage: https://coded.art/rateraid
 * Webdocs: https://bxcd.github.io/rateraid/?iframe=true
